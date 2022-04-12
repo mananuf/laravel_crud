@@ -1,0 +1,15 @@
+.form-style{
+    border: 3px solid rgba(0, 0, 255, 0.116);
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0,0,0, 0.3);
+    padding: 20px;
+}
+
+.form-style input[type="text"]{
+    width: 100%;
+    border: 1px solid lightblue;
+    padding: 6px;
+    border-radius: 5px;
+    color: lightblue;
+    font-size: 17px;
+}
